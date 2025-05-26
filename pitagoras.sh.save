@@ -1,0 +1,10 @@
+echo "dame un numero"
+read z
+
+ac1=$((z*z))
+x=1
+m=1
+
+echo "la elevacion del numero dado es" $ac1
+a=1
+while [ $a +
